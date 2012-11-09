@@ -4,7 +4,7 @@
  * Plugin Name: WP staff web portfolio
  * Plugin URI: https://github.com/fazleelahhee/wpMailToFriend
  * Author: Fazle Elahee
- * Description: This is a simple mail to friend wordpress plugins
+ * Description: This is a simple portfolio plugins for staff/ employee
  * version: 1.0
  * Author URI: http://careers.stackoverflow.com/fazleelahee
  * 
