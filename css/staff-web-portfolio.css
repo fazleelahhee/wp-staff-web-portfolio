@@ -1,0 +1,23 @@
+.post-type-archive-wp_emp_portfolio .thumb-image { 
+    width:80px; 
+    /*height: 80px;*/ 
+    float:left;
+    padding-right: 10px;
+}
+.post-type-archive-wp_emp_portfolio .staff-meta {
+    width:480px;
+    /*height: 80px;*/
+    float:left;
+}
+.post-type-archive-wp_emp_portfolio .portfolio-archive-content {float: left;}
+.post-type-archive-wp_emp_portfolio .type-wp_emp_portfolio {float: left;}
+.post-type-archive-wp_emp_portfolio .staff-meta  .entry-title { 
+       
+    font-size: 20px !important;
+    padding-top: 0px !important;
+} 
+.post-type-archive-wp_emp_portfolio .entry-content p {float: left;}
+.staff-portfolio-meta {width: 100%; float: left;}
+.staff-portfolio-meta .staff-meta{float: left; }
+.staff-portfolio-meta .thumb-image {float: right; }
+.single-wp_emp_portfolio .entry-content p {float: left;}
